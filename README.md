@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Meist genutzte Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=Herbert-Haase&hide=MakeFile)](https://github.com/anuraghazra/github-readme-stats)
+[![Meist genutzte Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=Herbert-Haase&hide=MakeFile&hide=JavaScript)](https://github.com/anuraghazra/github-readme-stats)
