@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+Computer Science student at the HTWG Konstanz, Germany
+Interested in Embedded Systems and Operating Systems
 <!--
 **Herbert-Haase/Herbert-Haase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Meist genutzte Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=Herbert-Haase&hide=MakeFile)](https://github.com/anuraghazra/github-readme-stats)
+[![Meist genutzte Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=Herbert-Haase&hide=MakeFile,Jupyter_Notebooks&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
