@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Meist genutzte Sprachen](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Herbert-Haase&theme=gruvbox&exclude=Makefile,Jupyter%20Notebook)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Meist genutzte Sprachen per repo](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Herbert-Haase&theme=gruvbox&exclude=Makefile,Jupyter%20Notebook)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+![Meist genutzte Sprachen per repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Herbert-Haase&theme=gruvbox&exclude=Makefile,Jupyter%20Notebook,HTML,CSS)
