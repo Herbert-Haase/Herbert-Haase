@@ -3,5 +3,7 @@ Während viele die Abstraktion suchen, ziehe ich es vor zu verstehen, was unter 
 
 Interessen: Embedded Systems, Operating Systems, Language Design
 
-![Meist genutzte Sprachen per commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Herbert-Haase&theme=gruvbox&exclude=Makefile,Jupyter%20Notebook,HTML,CSS,CMake)
-![Meist genutzte Sprachen per repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Herbert-Haase&theme=gruvbox&exclude=Makefile,Jupyter%20Notebook,HTML,CSS,CMake)
+![](https://raw.githubusercontent.com/Herbert-Haase/Herbert-Haase/main/profile-summary-card-output/gruvbox/0-profile-details.svg)
+
+![](https://raw.githubusercontent.com/Herbert-Haase/Herbert-Haase/main/profile-summary-card-output/gruvbox/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/Herbert-Haase/Herbert-Haase/main/profile-summary-card-output/gruvbox/2-most-commit-language.svg)
