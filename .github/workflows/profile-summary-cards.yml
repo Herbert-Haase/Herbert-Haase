@@ -20,4 +20,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_CARD_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          EXCLUDE: "Makefile,Jupyter Notebook,HTML,CSS,CMake,Lua"
+          EXCLUDE: "Makefile,Jupyter Notebook,HTML,CSS,CMake,Lua,Nix"
