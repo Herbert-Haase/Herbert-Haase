@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/Herbert-Haase/Herbert-Haase/main/profile-summary-card-output/chartreuse_dark/4-productive-time.svg)
+```
+
+    
